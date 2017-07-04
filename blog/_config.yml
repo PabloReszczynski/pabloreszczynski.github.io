@@ -71,3 +71,6 @@ deploy:
   type: git
   repo: https://github.com/PabloReszczynski/pabloreszczynski.github.io.git
   branch: master
+  name: PabloReszczynski
+  pass: ${GIT_PASS}
+
