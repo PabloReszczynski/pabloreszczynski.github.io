@@ -1,3 +1,6 @@
 [submodule "blog/themes/hexo-theme-apollo"]
 	path = blog/themes/apollo
 	url = https://github.com/pinggod/hexo-theme-apollo.git
+[submodule "blog/themes/apollo-pablo"]
+	path = blog/themes/apollo-pablo
+	url = git@github.com:PabloReszczynski/hexo-theme-apollo.git
